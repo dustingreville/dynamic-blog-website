@@ -1,0 +1,12 @@
+Create homepage
+Style homepage
+Implement JS for homepage
+
+Create new post page
+Style new post page
+Implement JS for new post page
+
+Create view/edit page
+Style view/edit page
+Implement JS for view/edit page
+
